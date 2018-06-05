@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">PrimitivApp</string>
+    <string name="tu_combinacion">Tu combinación es:</string>
+    <string name="generar">Generar</string>
+    <string name="version">versión 2.0.7</string>
+    <string name="bajos_altos">Bajos/Altos</string>
+    <string name="decenas">Decenas</string>
+    <string name="pares_impares">Pares/Impares</string>
+    <string name="seguidos">Seguidos</string>
+    <string name="sumatorio">Sumatorio</string>
+    <string name="terminaciones">Terminaciones</string>
+    <string name="tit_ayuda">Ayuda</string>
+    <string name="ayuda">
+        Consultando el apartado "Estadísticas del Juego" de la web de Loterías y Apuestas del Estado
+        hemos podido comprobar que las combinaciones que más se repiten cumplen alguna/as de
+        las siguientes propiedades:\n\n
+
+        -DECENAS: Dos números en la misma decena, otros dos números en otra decena y el resto en decenas diferentes.\n\n
+        -SUMATORIO: El sumatorio de los seis números está entre 141 y 150.\n\n
+        -TERMINACIONES: Dos de sus números tienen la misma terminación, los demás tienen terminaciones diferentes.\n\n
+        -BAJOS/ALTOS: Tienen tres números bajos (1-25) y tres números altos (26-49).\n\n
+        -SEGUIDOS: No hay ningún número consecutivo.\n\n
+        -PARES/IMPARES: Tienen tres números pares y por tanto tres impares.\n\n
+
+        Activa la casilla correspondiente si quieres que la combinación de números aleatorios cumpla
+        dicha propiedad.
+    </string>
+</resources>
