@@ -1,5 +1,5 @@
 # PrimitivApp
-Mi primera App Android. Muy simple si, pero le tengo bastante cariño. Disponible en Podremos dirigirnos a: [Google Play](https://play.google.com/store/apps/details?id=es.uca.primitivapp).
+Mi primera App Android. Muy simple si, pero le tengo bastante cariño. Disponible para su instalación en: [Google Play](https://play.google.com/store/apps/details?id=es.uca.primitivapp).
 
 Esta App genera combinaciones de números aleatorios para el juego de la primitiva pero con la particularidad que se centra en elegir combinaciones de números con las características históricamente más frecuentes. Descartando combinaciones con características poco frecuentes.
 
